@@ -1,5 +1,5 @@
 # WSQ - Data Analytics and Visualization with Power BI
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [WSQ - Data Analytics and Visualization with Power BIs](https://www.tertiarycourses.com.sg/wsq-data-analytics-visualization-powerbi.html) course. 
 
